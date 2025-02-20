@@ -6,6 +6,7 @@ https://bitbucket.org/buecheja/workspace/repositories/
 
 - Additionally my portfolio can be found at this url: https://www.jamesbueche.com
 - My behance profile with odds and ends illustrator/photoshop work can be found at this url: https://www.behance.net/buecheja
+- My linkedin can be found at this url: https://www.linkedin.com/in/james-bueche-6687a711b/
 
 
 
