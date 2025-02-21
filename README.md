@@ -3,7 +3,7 @@
 I actually use bitbucket but I created this github account for my application to heyo. You can find some of my work there:
 https://bitbucket.org/buecheja/workspace/repositories/
 
-Make sure to read the READMEs of the repositoriest to get a little background on what I created and my thoughts on it!
+Make sure to read the READMEs of the repositories to get a little background on what I created and my thoughts on it!
 
 - Additionally my portfolio can be found at this url: https://www.jamesbueche.com
 - My behance profile with odds and ends illustrator/photoshop work can be found at this url: https://www.behance.net/buecheja
