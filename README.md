@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jamesbueche - It's great to meet you!
+👋 Hi, I’m James Bueche - It's great to meet you!
 
 I actually use bitbucket but I created this github account for my application to heyo. You can find some of my work there:
 https://bitbucket.org/buecheja/workspace/repositories/
